@@ -1,6 +1,0 @@
-com/shaquille/app/domain/WebPage.class
-com/shaquille/app/main/Crawler.class
-com/shaquille/app/domain/Assets.class
-com/shaquille/app/domain/Links.class
-com/shaquille/app/main/ICrawler.class
-com/shaquille/app/main/CrawlerMain.class
